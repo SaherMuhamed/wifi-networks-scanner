@@ -8,6 +8,8 @@
 
 This Python script, allows you to scan and display nearby Wi-Fi networks using a specified network interface in monitor mode. It utilizes Scapy to sniff Wi-Fi packets and extract relevant information about the networks.
 
+**Note:** this script tested on `TP Link TL-WN722N v3` wireless card in monitor mode.
+
 ## Usage
 - Make sure you have `Python 3.0` or later installed. To run this script, use the following command:
     ```commandline
@@ -53,6 +55,5 @@ The script will continuously scan for Wi-Fi networks and display relevant inform
 - **main():** Main function to start the network scanning process.
 
 - Network data is stored in a DataFrame and displayed in a tabular format.
-
 
 Feel free to contribute to this project by providing feedback, opening issues, or submitting pull requests.
