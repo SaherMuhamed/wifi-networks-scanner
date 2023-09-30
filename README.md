@@ -4,6 +4,8 @@
   <img src="assets/wifi.png" />
 </p>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 This Python script, allows you to scan and display nearby Wi-Fi networks using a specified network interface in monitor mode. It utilizes Scapy to sniff Wi-Fi packets and extract relevant information about the networks.
 
 ## Usage
