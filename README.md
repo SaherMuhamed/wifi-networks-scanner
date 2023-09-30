@@ -17,7 +17,7 @@ This Python script, allows you to scan and display nearby Wi-Fi networks using a
 - Example: `python3 wifi_scanner.py wlan0`
 
 ## Screenshot
-![](screenshots\Screenshot_2023-09-30_10-29-25.png)
+![](https://github.com/SaherMuhamed/wifi-networks-scanner/blob/main/screenshots/Screenshot_2023-09-30_10-29-25.png)
 
 ## Requirements
 - `Python 3.0` or later
